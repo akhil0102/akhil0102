@@ -38,4 +38,3 @@ I enjoy working with data, building insights, and solving business problems usin
 
 ---
 
-⭐ Check out my projects below!

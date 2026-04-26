@@ -1,40 +1,87 @@
-# 👋 Hi, I'm Akhil
+# Hi, I'm Akhil Kumar Sampathi 👋
 
-🎯 Junior Data Analyst | MSc Data Analytics (Dublin Business School)  
-📍 Dublin, Ireland  
+## Software Engineer | Data Engineer | Data Analyst
 
----
+I’m passionate about building scalable data systems, backend workflows, and AI-driven solutions that solve real business problems.
 
-## 🚀 About Me
-I’m a Data Analyst with experience working on enterprise projects like Experian and Walgreens.  
-I enjoy working with data, building insights, and solving business problems using analytics.
+Currently pursuing my MSc in Data Analytics at Dublin Business School, Dublin, with 3+ years of professional experience at Tata Consultancy Services (TCS), where I worked on enterprise-scale projects like Experian and Walgreens.
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Python, R, SQL  
-- **Tools:** Power BI, Tableau, Excel  
-- **Big Data:** Hadoop, Hive, Spark  
-- **Databases:** MySQL, Oracle, Teradata  
+## What I Do
+
+* Build data pipelines and ETL workflows
+* Work with Python, SQL, Hadoop, Spark, and Hive
+* Develop AI-powered agents using LLMs and AutoGen
+* Create dashboards and reports using Power BI and Tableau
+* Solve backend and distributed systems problems
+* Work on cloud data migration and analytics platforms
 
 ---
 
-## 💼 Experience
-- Worked as a **Junior Data Analyst at TCS (2022–2025)**  
-- Experience in data cleaning, analysis, and reporting  
-- Built data pipelines and worked with big data tools  
+## Tech Stack
+
+### Languages
+
+Python | SQL | R | C | C++
+
+### Data Engineering
+
+Hadoop | Hive | Spark | HDFS | YARN | Sqoop | Talend Big Data | ETL
+
+### Databases
+
+MySQL | Oracle | Teradata | Netezza | SQLite
+
+### Visualization
+
+Power BI | Tableau | Excel
+
+### AI / ML
+
+LLMs | AutoGen | AI Agents | CNN | XGBoost | Random Forest
+
+### Other
+
+Git | REST APIs | Data Modeling | Workflow Automation
 
 ---
 
-## 📊 Projects
-- Data Analytics Enablement (Hadoop, Hive)  
-- Customer Analytics Project (Walgreens)  
+## Featured Projects
+
+### AI-Powered SQL Agent
+
+Built an LLM-powered system that converts natural language questions into SQL queries using Python, AutoGen, and SQLite.
+
+### Web Search Automation Agent
+
+Developed an intelligent multi-agent web automation system for search, navigation, and data extraction.
+
+### Interactive LLM Agent for Streaming Data
+
+Created a real-time multi-agent system for analyzing streaming data and generating dynamic recommendations.
 
 ---
 
-## 📫 Contact
-📧 akhilsampathi9@gmail.com  
-📱 +353 892341033  
+## Experience
+
+### Tata Consultancy Services (TCS)
+
+**Software Engineer**
+May 2022 – Mar 2025
+
+Worked on large-scale enterprise data engineering projects involving Experian and Walgreens, focusing on data pipelines, analytics, cloud migration, and backend workflows.
 
 ---
 
+## Reach Me
+
+📧 [akhilkumarsampathi@gmail.com](mailto:akhilkumarsampathi@gmail.com)
+📍 Dublin, Ireland
+🔗 LinkedIn: linkedin.com/in/akhil-kumar-sampathi-a2194016b
+
+---
+
+## Motto
+
+"Keep building. Keep learning. Keep improving."
